@@ -21,4 +21,4 @@ elif 9001 <= xp <= 10000:
 else:
     nivel = "Radiante"
 
-print(f"O Herói de {nome} está no nível de {nivel}")
+print(f"O Herói de nome {nome} está no nível de {nivel}")
